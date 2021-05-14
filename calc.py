@@ -15,3 +15,4 @@ def compute(expression):
         print('unknown operator!')
         return None
     print("Hello!")
+    print("Hello again!")
